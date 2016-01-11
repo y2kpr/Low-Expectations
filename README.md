@@ -1,2 +1,2 @@
 # Low-Expectations
-This is a repo for building robot players in battlecode
+This is a repository for building robot players in battlecode
